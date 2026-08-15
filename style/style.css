@@ -1076,7 +1076,9 @@ footer {
     transition: all 0.2s ease-in-out;
     transform: rotate(0);
 }
-
+.row{
+    margin-right: 0 !important;
+}
 @media (min-width: 1200px) and (max-width:1400px) {
     .heading_product {
         font-size: 30px;
