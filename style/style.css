@@ -74,7 +74,7 @@ header {
     margin-top: 10px;
 }
 
-.header_section2>a:first-child {
+.header_section2>div:first-child {
     width: 270px;
 }
 
